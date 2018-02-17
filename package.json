@@ -20,5 +20,7 @@
     "url": "https://github.com/Emiller88/Crypto-Adventures-Site/issues"
   },
   "homepage": "https://github.com/Emiller88/Crypto-Adventures-Site#readme",
-  "dependencies": {}
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
 }
