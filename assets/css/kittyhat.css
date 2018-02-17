@@ -1,0 +1,11 @@
+img {
+  position: absolute;
+  top: 25px;
+  left: 25px;
+}
+.KittyCard-image {
+  z-index: 1;
+}
+.KittyHat-image {
+  z-index: 3;
+}
