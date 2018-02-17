@@ -1,6 +1,10 @@
 .KittyCard-image {
   z-index: 1;
+<<<<<<< HEAD
   position:relative;
+=======
+  position: absolute;
+>>>>>>> master
   top:0;
   left:0;
   width:400px;
@@ -8,9 +12,17 @@
 }
 .KittyHat-image {
   z-index: 3;
+<<<<<<< HEAD
   position:absolute;
   top:78px;
   left:82px;
   width:150px;
   height:150px;
+=======
+  position: absolute;
+  top: 150;
+  left:100;
+  width: 100px;
+  height:100px; 
+>>>>>>> master
 }
