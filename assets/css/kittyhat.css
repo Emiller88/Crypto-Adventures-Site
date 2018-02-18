@@ -3,29 +3,43 @@
     height = 24%;
 }
 .KittyCard-image {
-  z-index: 1;
-<<<<<<< HEAD
-  position:relative;
-=======
-  position: absolute;
->>>>>>> master
-  top:0;
-  left:0;
-  width:24%;
-  height:24%;
+    z-index: 1;
+    top: 20%;
+    left: 0;
+    width: 600px;
+    height: 600px;
+    position: absolute;
 }
 .KittyHat-image {
-  z-index: 3;
-<<<<<<< HEAD
-  position:absolute;
-  top:78px;
-  left:82px;
-  width:150px;
-  height:150px;
-=======
+    z-index: 3;
+    position: absolute;
+    top: 19.35%;
+    left: 6.3%;
+    width: 237px;
+    height: 237px;
+}
+.LiteCoin {
+    z-index: 4;
+    position: absolute;
+    top: 30%;
+    left: 70%;
+    width: 400px;
+    height: 400px;
+}
+.VS {
+    z-index: 5;
+    position: absolute;
+    top: 30%;
+    left: 40%;
+    width: 250px;
+    height: 250px;
+}
+.box{ 
+  background-color: black;
   position: absolute;
-  top: 15.5%;
-  left: 4.4%;
-  width: 10%;
-  height: 19%;
+  padding: 10px;
+  height: 16%;
+  width: 20.5%;
+  left: 36%;
+  top: 80%;
 }
